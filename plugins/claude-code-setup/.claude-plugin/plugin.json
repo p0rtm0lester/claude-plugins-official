@@ -1,6 +1,6 @@
 {
   "name": "claude-code-setup",
-  "description": "Analyze codebases and recommend tailored Claude Code automations",
+  "description": "Analyze codebases and recommend tailored Claude Code automations such as Skills, MCP Servers, etc",
   "version": "1.0.0",
   "author": {
     "name": "Isabella He",
