@@ -1,4 +1,11 @@
 {
-  "generated_at": "2026-02-10T20:50:37.789Z",
-  "plugins": []
-}
+    "generated_at": "2026-02-10T12:00:00Z",
+    "plugins": [
+      {
+        "plugin": "code-review@claude-plugins-official",
+        "added_at": "2026-02-10T12:00:00Z",
+        "reason": "just-a-test",
+        "text": "This is just a test."
+      }
+    ]
+  }
