@@ -671,6 +671,16 @@
         "sha": "623eb4ed4364d8111f9a9132a791d7497d814b6a"
       },
       "homepage": "https://github.com/qodo-ai/qodo-skills.git"
+    },
+    {
+      "name": "semgrep",
+      "description": "Semgrep catches security vulnerabilities in real-time and guides Claude to write secure code from the start.",
+      "category": "security",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/semgrep/mcp-marketplace.git"
+      },
+      "homepage": "https://github.com/semgrep/mcp-marketplace.git"
     }
   ]
 }
